@@ -21,11 +21,15 @@
 - Exploring Node.js for backend development.
 
 ## 💬 Ask me about:
+
 - Web development, especially HTML, CSS, JavaScript, React, and MongoDB.
 - Astrophotography and tips on capturing the night sky.
 - My experiences in quizzing and hosting competitions.<
 
-## ⚡ Fun fact:<br>- I’m a cat lover and a guitar player, and I find both activities to be incredibly calming and creative outlets. I also enjoy connecting my passion for technology with the wonders of the universe!<br><br><br><br><br>
+## ⚡ Fun fact:
+
+- I’m a cat lover and a guitar player, and I find both activities to be incredibly calming and creative outlets.
+- I also enjoy connecting my passion for technology with the wonders of the universe!<br><br><br><br><br>
 
 
 ## 🌐 Socials:
