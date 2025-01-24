@@ -25,14 +25,14 @@ Starry greeting from the one from the star dust! yeah, that's me, pretty obsesse
 - Exploring Spring Boot for backend development.
 
 ## 💻 Technologies:
-### Languages: 
-  C, Java, Python, Javascript
-### Front-end: 
-  HTML, CSS, Tailwind CSS, JavaScript, React (Router, Hook Form).
-### Version Control: 
-  Git, Github (obvious)
-### Hosting: 
-  Vercel
+#### Languages: 
+- C, Java, Python, Javascript
+#### Front-end: 
+- HTML, CSS, Tailwind CSS, JavaScript, React (Router, Hook Form).
+#### Version Control: 
+- Git, Github (obvious)
+#### Hosting: 
+- Vercel
 
 
 ## 🌐 Socials:
