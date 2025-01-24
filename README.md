@@ -1,35 +1,34 @@
-# 💫 About Me:
+# About Me:
+
+Starry greeting from the one from the star dust! yeah, that's me, pretty obsessed with cosmic & beyond stuffs! A curious rational teenager- backing the claim with pretty good triumphs as a quizzer. Computers, Electronics, Stars and Galaxies, Silly cats, Art, Classicals of Illayaraja, Beethoven, Vivaldi, and the modern fresh hertz of Rahman and bascially Physics and related philosophical yapping (may not da Vinci knowledged of all the stuffs but..) these are what that fuels me the will to explore and live.
+
 ## 🔭 I’m currently working on:
 
-- Web development projects using React, MongoDB, and other modern technologies.
-- A Virtual Herbal Garden project combining educational content.
-- Creating a website for the English department at PSG College of Arts & Science.
+- Web development projects using React, Spring Boot, and other modern technologies.
+- Expanding my knowledge in the backend domain with Spring boot.
+- Seeking creative, innovative and exciting ideas and desings to build stuffs.
 
 ## 👯 I’m looking to collaborate on:
 
-- Free and Open Source Software (FOSS) initiatives.
-- Astronomy and astrophotography projects.
+- Deeply swept away by the ideas of Richard Stallman and FOSS, Desperately wanting a kickstart for my open-source contibutions.
+- Anything related to Astronomy/Astro-photography, trek's? star-gazing? conferences? I'm all in.
 
 ## 🤝 I’m looking for help with:
 
-- Improving my knowledge of advanced React and backend development.
+- Improving my knowledge of advanced React Concepts such as Redux and etc and backend development.
 - Enhancing user interface design and accessibility in web development.
+- Techniques for better SEO and performance optimizations.
 
 ## 🌱 I’m currently learning:
 
-- React for building dynamic web applications.
-- Exploring Node.js for backend development.
+- React and fellow libraries such as React router, React Hook Form for building dynamic web applications.
+- Exploring Spring Boot for backend development.
 
-## 💬 Ask me about:
-
-- Web development, especially HTML, CSS, JavaScript, React, and MongoDB.
-- Astrophotography and tips on capturing the night sky.
-- My experiences in quizzing and hosting competitions.<
-
-## ⚡ Fun fact:
-
-- I’m a cat lover and a guitar player, and I find both activities to be incredibly calming and creative outlets.
-- I also enjoy connecting my passion for technology with the wonders of the universe!<br><br><br><br><br>
+## Technologies:
+### Languages: C, Java, Python, Javascript
+### Front-end: HTML, CSS, Tailwind CSS, JavaScript, React (Router, Hook Form).
+### Version Control: Git, Github (obvious)
+### Hosting: Vercel
 
 
 ## 🌐 Socials:
